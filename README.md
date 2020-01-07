@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Front Page`
+![resort-front-page](https://user-images.githubusercontent.com/50600343/71867625-ecac3780-30d8-11ea-8987-9e3b475d5e9a.PNG)
+
+### `Filters Through Different Rooms`
+![resort-filter](https://user-images.githubusercontent.com/50600343/71867650-08174280-30d9-11ea-8e32-571ee3d78c0f.PNG)
+
+### `Data Stored Externally using Contentful`
+![contentful data](https://user-images.githubusercontent.com/50600343/71867680-1feec680-30d9-11ea-9d52-3a7f21e62aa2.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
