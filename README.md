@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Hotel Rooms Application
-A project from 'free code camp' as an introduction to React.js, using contentful for data, and netlify for hosting
+A project from 'free code camp' as an introduction to React.js, using contentful for data, and netlify for hosting.
+click this link to see the netlify site: https://joshua-mont-react-resort-site.netlify.com
 ### `Front Page`
 ![resort-front-page](https://user-images.githubusercontent.com/50600343/71867625-ecac3780-30d8-11ea-8987-9e3b475d5e9a.PNG)
 
